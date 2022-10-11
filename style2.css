@@ -1,0 +1,57 @@
+body {
+	background-image: url(image/back2.jpg);
+	font: 16px arial, sans-serif;
+}
+
+.container {
+	width: 800px;
+	margin: auto;
+	background-color: white;
+}
+
+.header {
+	padding: 20px;
+}
+
+.banner {
+	height: 250px;
+	background-image: url(image/kemarau.jpg);
+	background-position: 0px -520px;
+	border-top: 5px solid #dc9718;
+	border-bottom: 5px solid #dc9718;
+}
+
+h2 {
+	padding: 20px;
+	padding-bottom: 10px;
+}
+
+p {
+	padding: 20px;
+	padding-top: 0px;
+	padding-bottom: 5px;
+	text-align: justify;
+}
+
+a {
+	padding: 20px;
+	padding-top: 0px;
+}
+
+.header ul li {
+	display: inline-block;
+	margin-top: -20px;
+	margin-right: -10px;
+	margin-left: -20px;
+}
+
+ul {
+	list-style: none;
+	padding: 0; 
+}
+
+.header a {
+	text-decoration: none;
+	color: #dc9718;
+	font-weight: bold;
+}
